@@ -1,0 +1,2 @@
+# premium-flux-solder-001-flux-core-soldering-joint-in
+Tired of inconsistent solder joints that fail inspection? Stop guessing – systematize your flux-core soldering craft with a Notion hub that tracks every joint from prep to pass.  This template transforms your soldering workflow into a repeatable, inspectable process. With dedicated databases for flux types, joint specifications, and pass/fail logs,
